@@ -32,22 +32,22 @@
      <li><a href="#references">المراجع</a></li>
      <li><a href="#objects">الأشياء</a></li>
      <li><a href="#arrays">المصفوفات</a></li>
-     <li><a href="#arrays">التفكيك</a></li>
-     <li><a href="#arrays">السلاسل الحرفية</a></li>
+     <li><a href="#destructuring">التفكيك</a></li>
+     <li><a href="#strings">السلاسل الحرفية</a></li>
      <li><a href="#functions">الدوال</a></li>
-     <li><a href="#functions">الدوال السهميّة</a></li>
-     <li><a href="#functions">الأصناف والمُنشِئات</a></li>
-     <li><a href="#functions">الوحدات</a></li>
-     <li><a href="#functions">المُكرّرات والمولّدات</a></li>
-     <li><a href="#functions">الخصائص</a></li>
-     <li><a href="#functions">المتغيرات</a></li>
-     <li><a href="#functions">التّرفيع</a></li>
-     <li><a href="#functions">عمليات المقارنة والتساوي</a></li>
-     <li><a href="#functions">الكتل</a></li>
-     <li><a href="#functions">عبارات التحكم</a></li>
-     <li><a href="#functions">التعليقات</a></li>
-     <li><a href="#functions">المسافات</a></li>
-     <li><a href="#functions">الفواصل</a></li>
+     <li><a href="#arrow-functions">الدوال السهميّة</a></li>
+     <li><a href="#classes--constructors">الأصناف والمُنشِئات</a></li>
+     <li><a href="#modules">الوحدات</a></li>
+     <li><a href="#iterators-and-generators">المُكرّرات والمولّدات</a></li>
+     <li><a href="#properties">الخصائص</a></li>
+     <li><a href="#variables">المتغيرات</a></li>
+     <li><a href="#hoisting">التّرفيع</a></li>
+     <li><a href="#comparison-operators--equality">عمليات المقارنة والتساوي</a></li>
+     <li><a href="#blocks">الكتل</a></li>
+     <li><a href="#control-statements">عبارات التحكم</a></li>
+     <li><a href="#comments">التعليقات</a></li>
+     <li><a href="#whitespace">المسافات</a></li>
+     <li><a href="#commas">الفواصل</a></li>
      <li><a href="#functions">الفاصلة المنقوطة</a></li>
      <li><a href="#functions">تحويل الأنواع</a></li>
      <li><a href="#functions">اصطلاحات التسمية</a></li>
@@ -79,11 +79,37 @@
 
 <h2 id="arrays" dir='rtl' align='right'>المصفوفات</h2>
 
-<h2 id="types" dir='rtl' align='right'>الأنواع</h2>
-<h2 id="types" dir='rtl' align='right'>الأنواع</h2>
-<h2 id="types" dir='rtl' align='right'>الأنواع</h2>
-<h2 id="types" dir='rtl' align='right'>الأنواع</h2>
-<h2 id="types" dir='rtl' align='right'>الأنواع</h2>
+<h2 id="destructuring" dir='rtl' align='right'>التفكيك</h2>
+
+<h2 id="strings" dir='rtl' align='right'>السلاسل الحرفية</h2>
+
+<h2 id="functions" dir='rtl' align='right'>الدوال</h2>
+
+<h2 id="arrow-functions" dir='rtl' align='right'>الدوال السهميّة</h2>
+
+<h2 id="classes--constructors" dir='rtl' align='right'>الأصناف والمُنشِئات</h2>
+
+<h2 id="modules" dir='rtl' align='right'>الوحدات</h2>
+
+<h2 id="iterators-and-generators" dir='rtl' align='right'>المُكرّرات والمولّدات</h2>
+
+<h2 id="properties" dir='rtl' align='right'>الخصائص</h2>
+
+<h2 id="variables" dir='rtl' align='right'>المتغيرات</h2>
+
+<h2 id="hoisting" dir='rtl' align='right'>التّرفيع</h2>
+
+<h2 id="comparison-operators--equality" dir='rtl' align='right'>عمليات المقارنة والتساوي</h2>
+
+<h2 id="blocks" dir='rtl' align='right'>الكتل</h2>
+
+<h2 id="control-statements" dir='rtl' align='right'>عبارات التحكم</h2>
+
+<h2 id="comments" dir='rtl' align='right'>التعليقات</h2>
+
+<h2 id="whitespace" dir='rtl' align='right'>المسافات</h2>
+
+<h2 id="commas" dir='rtl' align='right'>الفواصل</h2>
 
 <h1 dir='rtl' align='right'>}</h1>
 
