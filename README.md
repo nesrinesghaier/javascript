@@ -29,44 +29,43 @@
 <div dir="rtl" >
   <ol dir="rtl">
     <li><a href="#types">الأنواع</a></li>
-     <li>المراجع</li>
-     <li>الأشياء</li>
-     <li>المصفوفات</li>
-     <li>التفكيك</li>
-     <li>السلاسل الحرفية</li>
-     <li>الدوال</li>
-     <li>الدوال السهميّة</li>
-     <li>الأصناف والمُنشِئات</li>
-     <li>الوحدات</li>
-     <li>المُكرّرات والمولّدات</li>
-     <li>الخصائص</li>
-     <li>المتغيرات</li>
-     <li>التّرفيع</li>
-     <li>عمليات المقارنة والتساوي</li>
-     <li>الكتل</li>
-     <li>عبارات التحكم</li>
-     <li>التعليقات</li>
-     <li>المسافات</li>
-     <li>الفواصل</li>
-     <li>الفاصلة المنقوطة</li>
-     <li>تحويل الأنواع</li>
-     <li>اصطلاحات التسمية</li>
-     <li>دالّات الدخول</li>
-     <li>الأحداث</li>
-     <li>jQuery</li>
-     <li>ECMAScript 5 توافق</li>
-     <li>ECMAScript 6+ (ES 2015+) أنماط</li>
-     <li>المكتبة القياسية</li>
-     <li>الاختبار</li>
-     <li>حسن الأداء</li>
-     <li>مصادر</li>
-     <li>إستعمالات</li>
-     <li>الترجمة</li>
-     <li>JavaScript دردش معنا حول</li>
-     <li>المساهمون</li>
-     <li>الرخصة</li>
-     <li>تعديلات</li>
-  
+     <li><a href="#references">المراجع</a></li>
+     <li><a href="#objects">الأشياء</a></li>
+     <li><a href="#arrays">المصفوفات</a></li>
+     <li><a href="#arrays">التفكيك</a></li>
+     <li><a href="#arrays">السلاسل الحرفية</a></li>
+     <li><a href="#functions">الدوال</a></li>
+     <li><a href="#functions">الدوال السهميّة</a></li>
+     <li><a href="#functions">الأصناف والمُنشِئات</a></li>
+     <li><a href="#functions">الوحدات</a></li>
+     <li><a href="#functions">المُكرّرات والمولّدات</a></li>
+     <li><a href="#functions">الخصائص</a></li>
+     <li><a href="#functions">المتغيرات</a></li>
+     <li><a href="#functions">التّرفيع</a></li>
+     <li><a href="#functions">عمليات المقارنة والتساوي</a></li>
+     <li><a href="#functions">الكتل</a></li>
+     <li><a href="#functions">عبارات التحكم</a></li>
+     <li><a href="#functions">التعليقات</a></li>
+     <li><a href="#functions">المسافات</a></li>
+     <li><a href="#functions">الفواصل</a></li>
+     <li><a href="#functions">الفاصلة المنقوطة</a></li>
+     <li><a href="#functions">تحويل الأنواع</a></li>
+     <li><a href="#functions">اصطلاحات التسمية</a></li>
+     <li><a href="#functions">دالّات الدخول</a></li>
+     <li><a href="#functions">الأحداث</a></li>
+     <li><a href="#functions">jQuery</a></li>
+     <li><a href="#functions">ECMAScript 5 توافق</a></li>
+     <li><a href="#functions">ECMAScript 6+ (ES 2015+) أنماط</a></li>
+     <li><a href="#functions">المكتبة القياسية</a></li>
+     <li><a href="#functions">الاختبار</a></li>
+     <li><a href="#functions">حسن الأداء</a></li>
+     <li><a href="#functions">مصادر</a></li>
+     <li><a href="#functions">إستعمالات</a></li>
+     <li><a href="#functions">الترجمة</a></li>
+     <li><a href="#functions">JavaScript دردش معنا حول</a></li>
+     <li><a href="#functions">المساهمون</a></li>
+     <li><a href="#functions">الرخصة</a></li>
+     <li><a href="#functions">تعديلات</a></li>
   </ol>
 
 
@@ -74,6 +73,17 @@
 
 <h2 id="types" dir='rtl' align='right'>الأنواع</h2>
 
+<h2 id="references" dir='rtl' align='right'>المراجع</h2>
+
+<h2 id="objects" dir='rtl' align='right'>الأشياء</h2>
+
+<h2 id="arrays" dir='rtl' align='right'>المصفوفات</h2>
+
+<h2 id="types" dir='rtl' align='right'>الأنواع</h2>
+<h2 id="types" dir='rtl' align='right'>الأنواع</h2>
+<h2 id="types" dir='rtl' align='right'>الأنواع</h2>
+<h2 id="types" dir='rtl' align='right'>الأنواع</h2>
+<h2 id="types" dir='rtl' align='right'>الأنواع</h2>
 
 <h1 dir='rtl' align='right'>}</h1>
 
