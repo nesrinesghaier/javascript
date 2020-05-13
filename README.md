@@ -7,7 +7,11 @@
 > .أو ما يماثله <a href="https://www.npmjs.com/package/airbnb-browser-shims">airbnb-browser-shims</a> في تطبيقك، عبر shims/polyfills ويفترض أيضًا أنّك قمت بتثبيت <br>
 </P>
 
-<p  dir='rtl' align='right'> يتوفر هذا الدليل بلغات أخرى أيضًا.<a href="https://github.com/airbnb/javascript/blob/master/README.md#translation"> انظر الترجمة</a></p>
+[![Downloads](https://img.shields.io/npm/dm/eslint-config-airbnb.svg)](https://www.npmjs.com/package/eslint-config-airbnb)
+[![Downloads](https://img.shields.io/npm/dm/eslint-config-airbnb-base.svg)](https://www.npmjs.com/package/eslint-config-airbnb-base)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+<p  dir='rtl' align='right'> يتوفر هذا الدليل بلغات أخرى أيضًا.<a href="#translation"> انظر الترجمة</a></p>
 
 <p  dir='rtl' align='right'>أدلة نمط أخرى</p>
 <div dir="rtl" >
@@ -21,27 +25,58 @@
 </ul></div>
 
 <h2 dir='rtl' align='right'>جدول المحتويات</h2>
+
+<div dir="rtl" >
+  <ol dir="rtl">
+    <li><a href="#types">الأنواع</a></li>
+     <li>المراجع</li>
+     <li>الأشياء</li>
+     <li>المصفوفات</li>
+     <li>التفكيك</li>
+     <li>السلاسل الحرفية</li>
+     <li>الدوال</li>
+     <li>الدوال السهميّة</li>
+     <li>الأصناف والمُنشِئات</li>
+     <li>الوحدات</li>
+     <li>المُكرّرات والمولّدات</li>
+     <li>الخصائص</li>
+     <li>المتغيرات</li>
+     <li>التّرفيع</li>
+     <li>عمليات المقارنة والتساوي</li>
+     <li>الكتل</li>
+     <li>عبارات التحكم</li>
+     <li>التعليقات</li>
+     <li>المسافات</li>
+     <li>الفواصل</li>
+     <li>الفاصلة المنقوطة</li>
+     <li>تحويل الأنواع</li>
+     <li>اصطلاحات التسمية</li>
+     <li>دالّات الدخول</li>
+     <li>الأحداث</li>
+     <li>jQuery</li>
+     <li>ECMAScript 5 توافق</li>
+     <li>ECMAScript 6+ (ES 2015+) أنماط</li>
+     <li>المكتبة القياسية</li>
+     <li>الاختبار</li>
+     <li>حسن الأداء</li>
+     <li>مصادر</li>
+     <li>إستعمالات</li>
+     <li>الترجمة</li>
+     <li>JavaScript دردش معنا حول</li>
+     <li>المساهمون</li>
+     <li>الرخصة</li>
+     <li>تعديلات</li>
+  
+  </ol>
+
+
+</div>
+
+<h2 id="types" dir='rtl' align='right'>الأنواع</h2>
+
+
 <h1 dir='rtl' align='right'>}</h1>
 
-# Airbnb JavaScript Style Guide() {
-
-*A mostly reasonable approach to JavaScript*
-
-> **Note**: this guide assumes you are using [Babel](https://babeljs.io), and requires that you use [babel-preset-airbnb](https://npmjs.com/babel-preset-airbnb) or the equivalent. It also assumes you are installing shims/polyfills in your app, with [airbnb-browser-shims](https://npmjs.com/airbnb-browser-shims) or the equivalent.
-
-[![Downloads](https://img.shields.io/npm/dm/eslint-config-airbnb.svg)](https://www.npmjs.com/package/eslint-config-airbnb)
-[![Downloads](https://img.shields.io/npm/dm/eslint-config-airbnb-base.svg)](https://www.npmjs.com/package/eslint-config-airbnb-base)
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-This guide is available in other languages too. See [Translation](#translation)
-
-Other Style Guides
-
-  - [ES5 (Deprecated)](https://github.com/airbnb/javascript/tree/es5-deprecated/es5)
-  - [React](react/)
-  - [CSS-in-JavaScript](css-in-javascript/)
-  - [CSS & Sass](https://github.com/airbnb/css)
-  - [Ruby](https://github.com/airbnb/ruby)
 
 ## Table of Contents
 
