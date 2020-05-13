@@ -1,3 +1,28 @@
+<h1 dir='rtl' align='right'>دليل Airbnb لنمط جافا سكريبت (){</h1>
+
+<p dir='rtl' align='right'><i>الطريقة الأكثر منطقية فى كتابة كود الجافا سكريبت</i></p>
+
+><p align='right'>  :ملاحظة <br>
+  > .أو ما يماثله <a href="https://npmjs.com/babel-preset-airbnb">babel-preset-airbnb</a> كما يتطلّب استخدام ،<a href="https://babeljs.io/">Babel</a> هذا الدليل يفترض أنك تستخدم <br>
+> .أو ما يماثله <a href="https://www.npmjs.com/package/airbnb-browser-shims">airbnb-browser-shims</a> في تطبيقك، عبر shims/polyfills ويفترض أيضًا أنّك قمت بتثبيت <br>
+</P>
+
+<p  dir='rtl' align='right'> يتوفر هذا الدليل بلغات أخرى أيضًا.<a href="https://github.com/airbnb/javascript/blob/master/README.md#translation"> انظر الترجمة</a></p>
+
+<p  dir='rtl' align='right'>أدلة نمط أخرى</p>
+<div dir="rtl" >
+  <ul dir="rtl">
+    <li><a href="https://github.com/airbnb/javascript/tree/es5-deprecated/es5">ES5 (Deprecated)</a></li>
+  <li><a href="https://github.com/airbnb/javascript/tree/master/react">React</a></li>
+  <li><a href="https://github.com/airbnb/javascript/tree/master/css-in-javascript">CSS-in-JavaScript</a></li>
+  <li><a href="https://github.com/airbnb/css">CSS & Sass</a></li>
+  <li><a href="https://github.com/airbnb/ruby">Ruby</a></li>
+    
+</ul></div>
+
+<h2 dir='rtl' align='right'>جدول المحتويات</h2>
+<h1 dir='rtl' align='right'>}</h1>
+
 # Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
